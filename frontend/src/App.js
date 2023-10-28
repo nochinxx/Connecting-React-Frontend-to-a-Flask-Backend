@@ -24,7 +24,7 @@ function App() {
     <div className="App container m-4">
     <div className="row">
       <div className="text-center">
-      <h1>Connecting a React Frontend to a Flask Backend.</h1>
+      <h1>Connecting a React Frontend to a Flask Backend. Bitch</h1>
       </div>
     </div>
 
